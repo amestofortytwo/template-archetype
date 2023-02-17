@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/add-to-project@v0.3.0
         with:
-          project-url: https://github.com/orgs/amestofortytwo/projects/1
+          project-url: https://github.com/orgs/amestofortytwo/projects/2
           github-token: ${{ secrets.MARVIN_PAT }}
 
   terraform:
