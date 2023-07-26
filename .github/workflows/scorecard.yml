@@ -1,3 +1,4 @@
+---
 name: Scorecard analysis workflow
 on:
   # Only the default branch is supported.
